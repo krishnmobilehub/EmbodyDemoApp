@@ -1,0 +1,30 @@
+{
+  "Online": [
+    {
+      "title": "Big Buck Bunny",
+      "link" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "title": "The first Blender Open Movie from 2006",
+      "link" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "title": "HBO GO now works with Chromecast",
+      "link" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    }
+  ],
+  "Offline": [
+    {
+      "title": "For Bigger Escapes",
+      "videoName" : "ForBiggerEscapes"
+    },
+    {
+      "title": "Earth View",
+      "videoName" : "Earth"
+    },
+    {
+      "title": "Clay Port",
+      "videoName" : "ClayPort"
+    }
+  ]
+}
